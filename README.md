@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ashhwiithac22/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ashhwiithac22/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ashhwiithac22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashhwiithac22/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashhwiithac22/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
