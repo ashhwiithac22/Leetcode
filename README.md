@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/ashhwiithac22/LeetCode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/ashhwiithac22/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ashhwiithac22/LeetCode/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/ashhwiithac22/LeetCode/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/ashhwiithac22/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/ashhwiithac22/LeetCode/tree/master/1075-project-employees-i) |
