@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0136-single-number) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ashhwiithac22/LeetCode/tree/master/0771-jewels-and-stones) |
 ## String
