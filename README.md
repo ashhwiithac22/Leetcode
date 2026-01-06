@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ashhwiithac22/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashhwiithac22/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/ashhwiithac22/LeetCode/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashhwiithac22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ashhwiithac22/LeetCode/tree/master/0412-fizz-buzz) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ashhwiithac22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
