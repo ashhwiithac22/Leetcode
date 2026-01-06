@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashhwiithac22/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashhwiithac22/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ashhwiithac22/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/ashhwiithac22/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ashhwiithac22/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashhwiithac22/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ashhwiithac22/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/ashhwiithac22/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ashhwiithac22/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ashhwiithac22/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ashhwiithac22/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ashhwiithac22/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
