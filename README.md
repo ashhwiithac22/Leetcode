@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashhwiithac22/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashhwiithac22/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
