@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ashhwiithac22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ashhwiithac22/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/ashhwiithac22/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ashhwiithac22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ashhwiithac22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ashhwiithac22/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ashhwiithac22/LeetCode/tree/master/0058-length-of-last-word) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ashhwiithac22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ashhwiithac22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
