@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ashhwiithac22/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ashhwiithac22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/ashhwiithac22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashhwiithac22/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/ashhwiithac22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ashhwiithac22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
