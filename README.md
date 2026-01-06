@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashhwiithac22/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ashhwiithac22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ashhwiithac22/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashhwiithac22/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ashhwiithac22/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ashhwiithac22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ashhwiithac22/LeetCode/tree/master/0049-group-anagrams) |
