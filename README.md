@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ashhwiithac22/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/ashhwiithac22/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/ashhwiithac22/LeetCode/tree/master/1667-fix-names-in-a-table) |
+| [1683-invalid-tweets](https://github.com/ashhwiithac22/LeetCode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/ashhwiithac22/LeetCode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ashhwiithac22/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/ashhwiithac22/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
