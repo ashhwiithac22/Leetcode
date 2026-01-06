@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/ashhwiithac22/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0619-biggest-single-number) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ashhwiithac22/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1280-students-and-examinations](https://github.com/ashhwiithac22/LeetCode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ashhwiithac22/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ashhwiithac22/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/ashhwiithac22/LeetCode/tree/master/1527-patients-with-a-condition) |
