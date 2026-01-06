@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashhwiithac22/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashhwiithac22/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ashhwiithac22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashhwiithac22/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -162,8 +164,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
