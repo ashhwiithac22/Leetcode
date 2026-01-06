@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
