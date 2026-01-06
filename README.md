@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashhwiithac22/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/ashhwiithac22/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ashhwiithac22/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashhwiithac22/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ashhwiithac22/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashhwiithac22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ashhwiithac22/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ashhwiithac22/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashhwiithac22/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ashhwiithac22/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashhwiithac22/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/ashhwiithac22/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Two Pointers
