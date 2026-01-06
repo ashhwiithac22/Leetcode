@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/ashhwiithac22/LeetCode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/ashhwiithac22/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ashhwiithac22/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ashhwiithac22/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
