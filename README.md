@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashhwiithac22/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ashhwiithac22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ashhwiithac22/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ashhwiithac22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ashhwiithac22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/ashhwiithac22/LeetCode/tree/master/0190-reverse-bits) |
 ## Binary Search
 |  |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ashhwiithac22/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
