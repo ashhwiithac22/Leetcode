@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/ashhwiithac22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/ashhwiithac22/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Sorting
