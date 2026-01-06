@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/ashhwiithac22/LeetCode/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ashhwiithac22/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
