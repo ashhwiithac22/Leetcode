@@ -1,7 +1,10 @@
-class Solution:
-    def plusOne(self, digits: List[int]) -> List[int]:
-        num = 0
+class Solution(object):
+    def plusOne(self, digits):
+        array = []
+        str1 = ""
         for d in digits:
-            num = num*10+d
-        num = num+1
-        return [int(ch) for ch in str(num)]
+            str1 += str(d)
+        number =str(int(str1) +1)
+        for num in number:
+            array.append(int(num))
+        return array
