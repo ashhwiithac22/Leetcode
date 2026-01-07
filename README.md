@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashhwiithac22/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/ashhwiithac22/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashhwiithac22/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/ashhwiithac22/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ashhwiithac22/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashhwiithac22/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
