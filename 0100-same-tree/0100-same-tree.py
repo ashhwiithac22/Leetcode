@@ -1,8 +1,8 @@
 class Solution(object):
     def isSameTree(self, p, q):
-        def inorder(root):   # name kept same (minimal change)
+        def preorder(root):   # name kept same (minimal change)
             if not root:
                 return [None]
-            return [root.val] + inorder(root.left) + inorder(root.right)
+            return [root.val] + preorder(root.left) + preorder(root.right)
 
-        return inorder(p) == inorder(q)
+        return preorder(p) == preorder(q)
