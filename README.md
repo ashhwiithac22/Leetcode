@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ashhwiithac22/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/ashhwiithac22/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ashhwiithac22/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ashhwiithac22/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/ashhwiithac22/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -323,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ashhwiithac22/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/ashhwiithac22/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
