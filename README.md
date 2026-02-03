@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/ashhwiithac22/LeetCode/tree/master/0994-rotting-oranges) |
+| [1672-richest-customer-wealth](https://github.com/ashhwiithac22/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ashhwiithac22/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashhwiithac22/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ashhwiithac22/LeetCode/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/ashhwiithac22/LeetCode/tree/master/0994-rotting-oranges) |
+| [1672-richest-customer-wealth](https://github.com/ashhwiithac22/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
