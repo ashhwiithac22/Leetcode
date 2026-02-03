@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ashhwiithac22/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ashhwiithac22/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ashhwiithac22/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ashhwiithac22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/ashhwiithac22/LeetCode/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ashhwiithac22/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashhwiithac22/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashhwiithac22/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/ashhwiithac22/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/ashhwiithac22/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ashhwiithac22/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/ashhwiithac22/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashhwiithac22/LeetCode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ashhwiithac22/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/ashhwiithac22/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashhwiithac22/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ashhwiithac22/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ashhwiithac22/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ashhwiithac22/LeetCode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/ashhwiithac22/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ashhwiithac22/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashhwiithac22/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting
