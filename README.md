@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ashhwiithac22/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashhwiithac22/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ashhwiithac22/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ashhwiithac22/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ashhwiithac22/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashhwiithac22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/ashhwiithac22/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ashhwiithac22/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ashhwiithac22/LeetCode/tree/master/0077-combinations) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ashhwiithac22/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
