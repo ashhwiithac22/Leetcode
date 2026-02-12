@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ashhwiithac22/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ashhwiithac22/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ashhwiithac22/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ashhwiithac22/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ashhwiithac22/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/ashhwiithac22/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ashhwiithac22/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ashhwiithac22/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ashhwiithac22/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ashhwiithac22/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashhwiithac22/LeetCode/tree/master/0258-add-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
