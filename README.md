@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ashhwiithac22/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/ashhwiithac22/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 ## Matrix
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashhwiithac22/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ashhwiithac22/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ashhwiithac22/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ashhwiithac22/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashhwiithac22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ashhwiithac22/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ashhwiithac22/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ashhwiithac22/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
