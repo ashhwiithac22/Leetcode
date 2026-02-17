@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ashhwiithac22/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ashhwiithac22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/ashhwiithac22/LeetCode/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ashhwiithac22/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ashhwiithac22/LeetCode/tree/master/0077-combinations) |
+| [0401-binary-watch](https://github.com/ashhwiithac22/LeetCode/tree/master/0401-binary-watch) |
 ## Number Theory
 |  |
 | ------- |
