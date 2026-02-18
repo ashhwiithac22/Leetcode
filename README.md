@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ashhwiithac22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ashhwiithac22/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/ashhwiithac22/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ashhwiithac22/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
 |  |
 | ------- |
