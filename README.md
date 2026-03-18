@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashhwiithac22/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ashhwiithac22/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/ashhwiithac22/LeetCode/tree/master/2942-find-words-containing-character) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ashhwiithac22/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ashhwiithac22/LeetCode/tree/master/1051-height-checker) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ashhwiithac22/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ashhwiithac22/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
