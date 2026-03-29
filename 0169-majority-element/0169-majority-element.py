@@ -1,9 +1,10 @@
 class Solution(object):
     def majorityElement(self, nums):
         n = len(nums)
-        checked = set()
+        seen = set()
         for num in nums:
-            if num not in checked:
+            if num not in seen:
                 if nums.count(num) > n/2:
                     return num
-                checked.add(num)
+                seen.add(num)
+                
