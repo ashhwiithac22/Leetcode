@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ashhwiithac22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/ashhwiithac22/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ashhwiithac22/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ashhwiithac22/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ashhwiithac22/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ashhwiithac22/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ashhwiithac22/LeetCode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/ashhwiithac22/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ashhwiithac22/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ashhwiithac22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/ashhwiithac22/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/ashhwiithac22/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ashhwiithac22/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
