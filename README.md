@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ashhwiithac22/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ashhwiithac22/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashhwiithac22/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ashhwiithac22/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ashhwiithac22/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ashhwiithac22/LeetCode/tree/master/0258-add-digits) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashhwiithac22/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ashhwiithac22/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashhwiithac22/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashhwiithac22/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0509-fibonacci-number) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ashhwiithac22/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
