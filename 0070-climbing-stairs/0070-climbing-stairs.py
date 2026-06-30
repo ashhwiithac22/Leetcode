@@ -9,6 +9,6 @@ class Solution:
             third = first + second
             first = second
             second = third
-        return second
+        return third
         
         
