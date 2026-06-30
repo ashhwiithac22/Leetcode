@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ashhwiithac22/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/ashhwiithac22/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/ashhwiithac22/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ashhwiithac22/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3866-first-unique-even-element](https://github.com/ashhwiithac22/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Bit Manipulation
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ashhwiithac22/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/ashhwiithac22/Leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ashhwiithac22/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ashhwiithac22/LeetCode/tree/master/1051-height-checker) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ashhwiithac22/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2974-minimum-number-game](https://github.com/ashhwiithac22/Leetcode/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ashhwiithac22/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [2974-minimum-number-game](https://github.com/ashhwiithac22/Leetcode/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
