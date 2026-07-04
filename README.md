@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ashhwiithac22/LeetCode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ashhwiithac22/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashhwiithac22/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ashhwiithac22/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ashhwiithac22/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/ashhwiithac22/Leetcode/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/ashhwiithac22/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashhwiithac22/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashhwiithac22/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3866-first-unique-even-element](https://github.com/ashhwiithac22/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/ashhwiithac22/Leetcode/tree/master/0819-most-common-word) |
 | [1189-maximum-number-of-balloons](https://github.com/ashhwiithac22/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/ashhwiithac22/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Stack
 |  |
