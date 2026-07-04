@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ashhwiithac22/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ashhwiithac22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashhwiithac22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ashhwiithac22/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/ashhwiithac22/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ashhwiithac22/LeetCode/tree/master/0704-binary-search) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ashhwiithac22/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ashhwiithac22/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashhwiithac22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ashhwiithac22/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/ashhwiithac22/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ashhwiithac22/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/ashhwiithac22/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/ashhwiithac22/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ashhwiithac22/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ashhwiithac22/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ashhwiithac22/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/1486-xor-operation-in-an-array) |
