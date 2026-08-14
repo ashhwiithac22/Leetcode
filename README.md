@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ashhwiithac22/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ashhwiithac22/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ashhwiithac22/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ashhwiithac22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/ashhwiithac22/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ashhwiithac22/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ashhwiithac22/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/ashhwiithac22/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/ashhwiithac22/Leetcode/tree/master/3019-number-of-changing-keys) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ashhwiithac22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ashhwiithac22/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/ashhwiithac22/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting Sort
 |  |
 | ------- |
